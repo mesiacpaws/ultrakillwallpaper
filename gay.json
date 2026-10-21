@@ -148,28 +148,28 @@
       "#0D0D0D"
     ],
     "HEADER_PRIMARY": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "INTERACTIVE_NORMAL": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "TEXT_DEFAULT": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "TEXT_NORMAL": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "TEXT_PRIMARY": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "TEXT_STRONG": [
-      "#DEFFDB"
+      "#FBE5E5"
     ],
     "ANDROID_RIPPLE": [
       "#5b2a82"
@@ -284,15 +284,15 @@
     "PRIMARY_DARK_600": "#0D0D0D",
     "PRIMARY_DARK_630": "#0D0D0D",
     "PRIMARY_DARK_660": "#0D0D0D",
-    "BRAND_730": "#DEFFDB",
-    "PLUM_1": "#DEFFDB",
-    "PLUM_4": "#DEFFDB",
-    "PLUM_6": "#DEFFDB",
-    "PRIMARY_100": "#DEFFDB",
-    "PRIMARY_200": "#DEFFDB",
-    "PRIMARY_330": "#DEFFDB",
-    "PRIMARY_DARK_200": "#DEFFDB",
-    "WHITE_500": "#DEFFDB",
+    "BRAND_730": "#FBE5E5",
+    "PLUM_1": "#FBE5E5",
+    "PLUM_4": "#FBE5E5",
+    "PLUM_6": "#FBE5E5",
+    "PRIMARY_100": "#FBE5E5",
+    "PRIMARY_200": "#FBE5E5",
+    "PRIMARY_330": "#FBE5E5",
+    "PRIMARY_DARK_200": "#FBE5E5",
+    "WHITE_500": "#FBE5E5",
     "BLACK_500": "#000000b2",
     "PLUM_18": "#101012",
     "PRIMARY_645": "#101012",
@@ -309,7 +309,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://ptb.discord.com/channels/1412391439475933277/1412391440247685280/1562488900348285059",
+    "url": "https://cdn.discordapp.com/attachments/1412391440247685280/1562488899895435384/Untitled686_20261021183249.png?ex=6ada2caf&is=6ad8db2f&hm=0230d02446a0d4ccce7b6d20fd8d983cb39d3e9263b00b5b0658486c38678900&",
     "alpha": 0.4,
     "size": "cover",
     "position": "center"
