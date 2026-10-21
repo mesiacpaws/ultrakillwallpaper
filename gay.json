@@ -1,151 +1,151 @@
 {
   "name": "Ultrakill",
-  "description": "Clean, midnight-purple aesthetic",
+  "description": "Ultrakill hayahhh",
   "version": "3",
   "authors": [
     {
-      "name": "Theme author",
-      "id": "000000000000000000"
+      "name": "Mesiacpaws",
+      "id": "1190281756063051867"
     }
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": [
-      "#872121"
+      "#C94F4F"
     ],
     "BACKGROUND_BRAND": [
-      "#872121"
+      "#C94F4F"
     ],
     "MENTION_FOREGROUND": [
-      "#872121"
+      "#C94F4F"
     ],
     "TEXT_LINK": [
-      "#872121"
+      "#C94F4F"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#872121"
+      "#C94F4F"
     ],
     "INTERACTIVE_HOVER": [
       "#520F0F"
     ],
     "CHANNELS_DEFAULT": [
-      "#743434"
+      "#844343"
     ],
     "CHANNEL_ICON": [
-      "#743434"
+      "#844343"
     ],
     "HEADER_SECONDARY": [
-      "#743434"
+      "#844343"
     ],
     "INTERACTIVE_MUTED": [
-      "#743434"
+      "#844343"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#743434"
+      "#844343"
     ],
     "TEXT_MUTED": [
-      "#743434"
+      "#844343"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#2B1717"
+      "#150909"
     ],
     "CHAT_BACKGROUND": [
-      "#2B1717"
+      "#150909"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#2B1717"
+      "#150909"
     ],
     "BACKGROUND_PRIMARY": [
-      "#2B1717"
+      "#150909"
     ],
     "BG_BASE_PRIMARY": [
-      "#2B1717"
+      "#150909"
     ],
     "HOME_BACKGROUND": [
-      "#2B1717"
+      "#150909"
     ],
     "STATUS_DANGER_TEXT": [
-      "#2B1717"
+      "#150909"
     ],
     "BACKGROUND_FLOATING": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BACKGROUND_SECONDARY": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BACKGROUND_SURFACE_RAISED": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BACKGROUND_TERTIARY": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BG_BASE_SECONDARY": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BG_BASE_TERTIARY": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BG_SURFACE_OVERLAY": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#2A0F0F"
+      "#170707"
     ],
     "BG_SURFACE_RAISED": [
-      "#2A0F0F"
+      "#170707"
     ],
     "CARD_PRIMARY_BG": [
-      "#2A0F0F"
+      "#170707"
     ],
     "CARD_SECONDARY_BG": [
-      "#2A0F0F"
+      "#170707"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "EMBED_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "#2A0F0F"
+      "#170707"
     ],
     "KEYBOARD": [
-      "#2A0F0F"
+      "#170707"
     ],
     "PANEL_BG": [
-      "#2A0F0F"
+      "#170707"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#2A0F0F"
+      "#170707"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#2A0F0F"
+      "#170707"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#2A0F0F"
+      "#170707"
     ],
     "HEADER_PRIMARY": [
       "#C2A8A8"
@@ -236,54 +236,54 @@
     ]
   },
   "rawColors": {
-    "BRAND_200": "#872121",
-    "BRAND_260": "#872121",
-    "BRAND_300": "#872121",
-    "BRAND_330": "#872121",
-    "BRAND_345": "#872121",
-    "BRAND_360": "#872121",
-    "BRAND_400": "#872121",
-    "BRAND_430": "#872121",
-    "BRAND_460": "#872121",
-    "BRAND_500": "#872121",
-    "BRAND_530": "#872121",
-    "BRAND_600": "#872121",
-    "BRAND_630": "#872121",
-    "BRAND_660": "#872121",
-    "BRAND_700": "#872121",
-    "PLUM_3": "#872121",
-    "PLUM_15": "#872121",
-    "PRIMARY_300": "#872121",
-    "PRIMARY_360": "#872121",
-    "PRIMARY_500": "#872121",
-    "PRIMARY_530": "#872121",
+    "BRAND_200": "#C94F4F",
+    "BRAND_260": "#C94F4F",
+    "BRAND_300": "#C94F4F",
+    "BRAND_330": "#C94F4F",
+    "BRAND_345": "#C94F4F",
+    "BRAND_360": "#C94F4F",
+    "BRAND_400": "#C94F4F",
+    "BRAND_430": "#C94F4F",
+    "BRAND_460": "#C94F4F",
+    "BRAND_500": "#C94F4F",
+    "BRAND_530": "#C94F4F",
+    "BRAND_600": "#C94F4F",
+    "BRAND_630": "#C94F4F",
+    "BRAND_660": "#C94F4F",
+    "BRAND_700": "#C94F4F",
+    "PLUM_3": "#C94F4F",
+    "PLUM_15": "#C94F4F",
+    "PRIMARY_300": "#C94F4F",
+    "PRIMARY_360": "#C94F4F",
+    "PRIMARY_500": "#C94F4F",
+    "PRIMARY_530": "#C94F4F",
     "BRAND_560": "#520F0F",
     "PRIMARY_400": "#520F0F",
-    "PLUM_9": "#743434",
-    "PLUM_10": "#743434",
-    "PLUM_11": "#743434",
-    "PLUM_13": "#743434",
-    "PRIMARY_730": "#743434",
-    "ROLE_DEFAULT": "#743434",
-    "WHITE_630": "#743434",
-    "PLUM_17": "#2B1717",
-    "PLUM_20": "#2B1717",
-    "PLUM_24": "#2B1717",
-    "PLUM_25": "#2B1717",
-    "PRIMARY_600": "#2B1717",
-    "PRIMARY_DARK_700": "#2B1717",
-    "PRIMARY_DARK_800": "#2B1717",
-    "PLUM_16": "#2A0F0F",
-    "PLUM_19": "#2A0F0F",
-    "PLUM_21": "#2A0F0F",
-    "PLUM_22": "#2A0F0F",
-    "PRIMARY_460": "#2A0F0F",
-    "PRIMARY_630": "#2A0F0F",
-    "PRIMARY_660": "#2A0F0F",
-    "PRIMARY_700": "#2A0F0F",
-    "PRIMARY_DARK_600": "#2A0F0F",
-    "PRIMARY_DARK_630": "#2A0F0F",
-    "PRIMARY_DARK_660": "#2A0F0F",
+    "PLUM_9": "#844343",
+    "PLUM_10": "#844343",
+    "PLUM_11": "#844343",
+    "PLUM_13": "#844343",
+    "PRIMARY_730": "#844343",
+    "ROLE_DEFAULT": "#844343",
+    "WHITE_630": "#844343",
+    "PLUM_17": "#150909",
+    "PLUM_20": "#150909",
+    "PLUM_24": "#150909",
+    "PLUM_25": "#150909",
+    "PRIMARY_600": "#150909",
+    "PRIMARY_DARK_700": "#150909",
+    "PRIMARY_DARK_800": "#150909",
+    "PLUM_16": "#170707",
+    "PLUM_19": "#170707",
+    "PLUM_21": "#170707",
+    "PLUM_22": "#170707",
+    "PRIMARY_460": "#170707",
+    "PRIMARY_630": "#170707",
+    "PRIMARY_660": "#170707",
+    "PRIMARY_700": "#170707",
+    "PRIMARY_DARK_600": "#170707",
+    "PRIMARY_DARK_630": "#170707",
+    "PRIMARY_DARK_660": "#170707",
     "BRAND_730": "#C2A8A8",
     "PLUM_1": "#C2A8A8",
     "PLUM_4": "#C2A8A8",
