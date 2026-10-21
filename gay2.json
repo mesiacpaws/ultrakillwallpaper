@@ -28,22 +28,22 @@
       "#2B335A"
     ],
     "CHANNELS_DEFAULT": [
-      "#47496C"
+      "#8D6868"
     ],
     "CHANNEL_ICON": [
-      "#47496C"
+      "#8D6868"
     ],
     "HEADER_SECONDARY": [
-      "#47496C"
+      "#8D6868"
     ],
     "INTERACTIVE_MUTED": [
-      "#47496C"
+      "#8D6868"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#47496C"
+      "#8D6868"
     ],
     "TEXT_MUTED": [
-      "#47496C"
+      "#8D6868"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
       "#0C0D17"
@@ -259,13 +259,13 @@
     "PRIMARY_530": "#CEA08D",
     "BRAND_560": "#2B335A",
     "PRIMARY_400": "#2B335A",
-    "PLUM_9": "#47496C",
-    "PLUM_10": "#47496C",
-    "PLUM_11": "#47496C",
-    "PLUM_13": "#47496C",
-    "PRIMARY_730": "#47496C",
-    "ROLE_DEFAULT": "#47496C",
-    "WHITE_630": "#47496C",
+    "PLUM_9": "#8D6868",
+    "PLUM_10": "#8D6868",
+    "PLUM_11": "#8D6868",
+    "PLUM_13": "#8D6868",
+    "PRIMARY_730": "#8D6868",
+    "ROLE_DEFAULT": "#8D6868",
+    "WHITE_630": "#8D6868",
     "PLUM_17": "#0C0D17",
     "PLUM_20": "#0C0D17",
     "PLUM_24": "#0C0D17",
