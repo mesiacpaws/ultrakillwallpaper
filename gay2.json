@@ -25,7 +25,7 @@
       "#CEA08D"
     ],
     "INTERACTIVE_HOVER": [
-      "#2B335A"
+      "#846262"
     ],
     "CHANNELS_DEFAULT": [
       "#8D6868"
@@ -46,106 +46,106 @@
       "#8D6868"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#0C0D17"
+      "#3D3A50"
     ],
     "CHAT_BACKGROUND": [
-      "#0C0D17"
+      "#3D3A50"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#0C0D17"
+      "#3D3A50"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0C0D17"
+      "#3D3A50"
     ],
     "BG_BASE_PRIMARY": [
-      "#0C0D17"
+      "#3D3A50"
     ],
     "HOME_BACKGROUND": [
-      "#0C0D17"
+      "#3D3A50"
     ],
     "STATUS_DANGER_TEXT": [
-      "#0C0D17"
+      "#3D3A50"
     ],
     "BACKGROUND_FLOATING": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BACKGROUND_SECONDARY": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BACKGROUND_SURFACE_RAISED": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BACKGROUND_TERTIARY": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BG_BASE_SECONDARY": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BG_BASE_TERTIARY": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BG_SURFACE_OVERLAY": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BG_SURFACE_OVERLAY_TMP": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "BG_SURFACE_RAISED": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "CARD_PRIMARY_BG": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "CARD_SECONDARY_BG": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "EMBED_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "INPUT_BACKGROUND_DEFAULT": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "KEYBOARD": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "PANEL_BG": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#2A2640"
+      "#3D3A50"
     ],
     "HEADER_PRIMARY": [
       "#FFFFFF"
@@ -257,8 +257,8 @@
     "PRIMARY_360": "#CEA08D",
     "PRIMARY_500": "#CEA08D",
     "PRIMARY_530": "#CEA08D",
-    "BRAND_560": "#2B335A",
-    "PRIMARY_400": "#2B335A",
+    "BRAND_560": "#846262",
+    "PRIMARY_400": "#846262",
     "PLUM_9": "#8D6868",
     "PLUM_10": "#8D6868",
     "PLUM_11": "#8D6868",
@@ -266,24 +266,24 @@
     "PRIMARY_730": "#8D6868",
     "ROLE_DEFAULT": "#8D6868",
     "WHITE_630": "#8D6868",
-    "PLUM_17": "#0C0D17",
-    "PLUM_20": "#0C0D17",
-    "PLUM_24": "#0C0D17",
-    "PLUM_25": "#0C0D17",
-    "PRIMARY_600": "#0C0D17",
-    "PRIMARY_DARK_700": "#0C0D17",
-    "PRIMARY_DARK_800": "#0C0D17",
-    "PLUM_16": "#2A2640",
-    "PLUM_19": "#2A2640",
-    "PLUM_21": "#2A2640",
-    "PLUM_22": "#2A2640",
-    "PRIMARY_460": "#2A2640",
-    "PRIMARY_630": "#2A2640",
-    "PRIMARY_660": "#2A2640",
-    "PRIMARY_700": "#2A2640",
-    "PRIMARY_DARK_600": "#2A2640",
-    "PRIMARY_DARK_630": "#2A2640",
-    "PRIMARY_DARK_660": "#2A2640",
+    "PLUM_17": "#3D3A50",
+    "PLUM_20": "#3D3A50",
+    "PLUM_24": "#3D3A50",
+    "PLUM_25": "#3D3A50",
+    "PRIMARY_600": "#3D3A50",
+    "PRIMARY_DARK_700": "#3D3A50",
+    "PRIMARY_DARK_800": "#3D3A50",
+    "PLUM_16": "#3D3A50",
+    "PLUM_19": "#3D3A50",
+    "PLUM_21": "#3D3A50",
+    "PLUM_22": "#3D3A50",
+    "PRIMARY_460": "#3D3A50",
+    "PRIMARY_630": "#3D3A50",
+    "PRIMARY_660": "#3D3A50",
+    "PRIMARY_700": "#3D3A50",
+    "PRIMARY_DARK_600": "#3D3A50",
+    "PRIMARY_DARK_630": "#3D3A50",
+    "PRIMARY_DARK_660": "#3D3A50",
     "BRAND_730": "#FFFFFF",
     "PLUM_1": "#FFFFFF",
     "PLUM_4": "#FFFFFF",
